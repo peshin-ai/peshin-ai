@@ -1,9 +1,9 @@
 <div>
-*
-</div>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=peshin-ai&&style=flat-square" align="center" />
+ - ✌️ <b>Hi there, my name's Tuan</b>
+ <br/>
+ - 💻 <b>I am currently is Full-stack developer for Web application</b>
+ <br />
+ <img src="https://komarev.com/ghpvc/?username=peshin-ai&&style=flat-square" align="center" />
 </div>  
 
 # 💻 Tech Stack:
