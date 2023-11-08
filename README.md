@@ -1,9 +1,10 @@
 <div>
  - ✌️ <b>Hi there, my name's Tuan</b>
  <br/>
- - 💻 <b>I am currently is Full-stack developer for Web application</b>
+ - <b> I am a normal Freelancer </b>
  <br />
- <img src="https://komarev.com/ghpvc/?username=peshin-ai&&style=flat-square" align="center" />
+ - 💻 <b>My major skills are Full-stack for Web application</b>
+ <br />
 </div>  
 
 # 💻 Tech Stack:
